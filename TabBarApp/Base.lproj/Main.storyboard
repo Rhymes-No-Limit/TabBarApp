@@ -92,10 +92,10 @@
             </objects>
             <point key="canvasLocation" x="-799" y="-2"/>
         </scene>
-        <!--Tab Bar Controller-->
+        <!--Tab Bar View Controller-->
         <scene sceneID="Z3e-PS-Fhq">
             <objects>
-                <tabBarController automaticallyAdjustsScrollViewInsets="NO" id="Idz-fK-31w" sceneMemberID="viewController">
+                <tabBarController automaticallyAdjustsScrollViewInsets="NO" id="Idz-fK-31w" customClass="TabBarViewController" customModule="TabBarApp" customModuleProvider="target" sceneMemberID="viewController">
                     <toolbarItems/>
                     <tabBar key="tabBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="ULG-lC-T0g">
                         <autoresizingMask key="autoresizingMask"/>
